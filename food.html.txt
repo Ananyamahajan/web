@@ -1,0 +1,59 @@
+<html>
+<head>
+<tittle><font color="green">
+<h1>MY FAVOURITE RECIPIES</h1>
+</font>
+</tittle>
+</head>
+<body>
+<ul>
+<li><a href="https://www.elementstark.com/woocommerce-extension-demos/product/pizza-builder/">Pizza</a></li>
+<li><a href="https://www.google.com/imgres?imgurl=https%3A%2F%2Fchickencottage.com%2Fwp-content%2Fuploads%2F2015%2F07%2Fveggie-burger.jpg&imgrefurl=https%3A%2F%2Fchickencottage.com%2Fproduct%2Fveggie-burger%2F&docid=JvtGvzW4-ZytYM&tbnid=EKhY8QbgaJQnLM%3A&vet=10ahUKEwixrMfBm9HbAhVKf30KHf91DnYQMwjvASgIMAg..i&w=1000&h=1000&bih=672&biw=1366&q=burger&ved=0ahUKEwixrMfBm9HbAhVKf30KHf91DnYQMwjvASgIMAg&iact=mrc&uact=8">Burger</a></li>
+<li><a href="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.inspiredtaste.net%2Fwp-content%2Fuploads%2F2011%2F12%2FLavender-Honey-Chicken-Recipe-1200.jpg&imgrefurl=https%3A%2F%2Fwww.inspiredtaste.net%2F9851%2Flavender-honey-chicken-recipe%2F&docid=wD087Oz_AocTqM&tbnid=6BZ_PTiD5LBKGM%3A&vet=10ahUKEwjWwKjim9HbAhUFXCsKHdvUDygQMwiMAigDMAM..i&w=1200&h=800&bih=672&biw=1366&q=chicken&ved=0ahUKEwjWwKjim9HbAhUFXCsKHdvUDygQMwiMAigDMAM&iact=mrc&uact=8">Chicken</a></li>
+</ul>
+<font color="red">
+<h2>PIZZA</h2>
+</font>
+<img src="C:\Users\priyam\Desktop\download.jpg" height="200px" width="300px">
+<br>
+<h4> Steps to make pizza</h4>
+<ol type="1"><font color =" teal">
+<li>Make the base: Put the flour into a large bowl, then stir in the yeast and salt. Make a well, pour in 200ml warm water and the olive oil and bring together with a wooden spoon until you have a soft, fairly wet dough. Turn onto a lightly floured surface and knead for 5 mins until smooth. Cover with a tea towel and set aside. You can leave the dough to rise if you like, but it’s not essential for a thin crust.</li>
+<li>Make the sauce: Mix the passata, basil and crushed garlic together, then season to taste. Leave to stand at room temperature while you get on with shaping the base.</li>
+<li>Roll out the dough: If you’ve let the dough rise, give it a quick knead, then split into two balls. On a floured surface, roll out the dough into large rounds, about 25cm across, using a rolling pin. The dough needs to be very thin as it will rise in the oven. Lift the rounds onto two floured baking sheets.</li>
+<li>Top and bake: Heat oven to 240C/fan 220C /gas 8. Put another baking sheet or an upturned baking tray in the oven on the top shelf. Smooth sauce over bases with the back of a spoon. Scatter with cheese and tomatoes, drizzle with olive oil and season. Put one pizza, still on its baking sheet, on top of the preheated sheet or tray. Bake for 8-10 mins until crisp. Serve with a little more olive oil, and basil leaves if using. Repeat step for remaining pizza.</li>
+<li>Enjoy</li>
+</font>
+</ol>
+<font color="red">
+<h2>BURGER</h2>
+</font>
+<img src="C:\Users\priyam\Desktop\images.jpg" height="200px" width="300px">
+<br/>
+<h4> Steps to make burger</h4>
+<ol type="1"><font color="teal">
+<li>Dump your ground meat into a bowl. (We go for ground meat with around 20% fat.) Season it with salt, pepper, and whatever else you want; you can add spices, perhaps, or Worcestershire sauce, or shallots, or chiles.</li>
+<li>Shape your burgers into patties, using your thumb to make an indentation in the center; this will keep the burgers from puffing up. Keep in mind that the burgers will shrink up a bit once you cook them, so make your patties a bit bigger than you want them later.</li>
+<li>Oil your grill or a cast-iron pan, and grill or sear those patties. (How many times to flip them is up for debate -- but when I'm grilling, I flip once so I can get get those nice grill marks.) Cook them until your desired doneness (around 125-130ºF for medium rare, around 1 minute per side for each inch of thickness). But before you take them off the grill...</li>
+<li>add your cheese and toast your buns. Let the cheese melt while the burgers are still on the grill; to speed things up, you can close the cover.</li>
+<li>Once your burgers iare finished cooking, and your cheese is melty and your buns are nicely charred, throw some condiments and toppings on those burgers. Anything goes. (Really, anything goes.) Bite into it and let those juices run down your chin, and rejoice that it's summer. And then make another round, because now you know how.</li>
+<li>Enjoy</li>
+</font>
+</ol>
+<font color="red">
+<h2>CHICKEN</h2>
+</font>
+<img src="C:\Users\priyam\Desktop\images (1).jpg" height="200px" width="300px">
+<br>
+<h4>Steps to make grilled chicken</h4>
+<ol type="1"><font color="teal">
+<li>Place the chicken legs in a large zip-top bag</li>
+<li>Make the marinade. Mix together the olive oil, salt, pepper, paprika, cumin, and cayenne pepper. Place the ingredients in a small bowl and stir them until they're thoroughly incorporated.</li>
+<li>Pour the marinade over the chicken legs. Pour the marinade into the zip-top bag with the chicken and seal it. Remove as much air as possible from the bag and seal it. Turn it from side to side to ensure that all of the chicken is coated in the marinade. Then, place the bag on a sheet pan and refrigerate it for an hour or even overnight for best results. Turn the bag every few hours to keep the chicken freshly coated.</li>
+<li>Prepare the grill. Brush the grill grate with olive oil to coat it. Then, heat the grill to 350ºF (175ºC).</li>
+<li>Place the chicken on the grill. Cook the chicken until it's crispy and brown on both sides. Turn the chicken every few minutes to evenly cook both sides.</li>
+<li>Enjoy</li>
+</font>
+</ol>
+</body>
+</html>
