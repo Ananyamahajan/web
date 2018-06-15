@@ -1,0 +1,47 @@
+
+h1
+{
+
+background: red;
+text-align: center;
+border: 10px solid transparent;
+padding:15px;
+}
+ul{
+font-size: 20px;
+list-style-position:inside;
+margin: 10px;
+padding: 10px;
+list-style-position: center;
+list-style-type: circle;
+background: #ff9999;
+padding: 20px;
+}
+ul li{
+background:#ffe5e5;
+padding: 5px;
+margin-left: 35px;
+
+
+}
+h2{
+background: #ffe5e5;
+white-space: nowrap;
+width:200px;
+border:1px solid;
+overflow: hidden;
+text-overflow:clip;
+}
+h4{
+border-radius: 20px;
+border:2px solid #73ad21;
+padding: 20px;
+width:200px;
+height:10px;
+background-position:center;
+text-decoration: overline underline #43c3b7;
+}
+
+
+
+
